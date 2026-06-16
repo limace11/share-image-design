@@ -1,0 +1,30 @@
+# Secrets / local config
+.env
+.env.*
+.secrets/
+*.key
+*.pem
+
+# Generated outputs and references
+generated/
+output/
+outputs/
+refs/
+references-private/
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.mp4
+*.mov
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
