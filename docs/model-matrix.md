@@ -1,6 +1,6 @@
 # Model matrix
 
-Models observed in `limace11/lets-share-redesign` image-generation scripts and reduced to the useful public set.
+Models observed in `limace11/lets-share-redesign` image-generation scripts and reduced to the useful public set. The source repo contains both Kie.ai scripts and a `scripts/fal-test/` experiment folder. Kie.ai is the primary reusable runner exported here; fal.ai entries below are direct fallback/experiment IDs.
 
 ## Recommended order for Let's Share product imagery
 

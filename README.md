@@ -2,6 +2,8 @@
 
 Minimal public skill pack for generating Let's Share-style editorial product images.
 
+Note: the source project used both Kie.ai and direct fal.ai experiments. The reusable public scripts here use Kie.ai because the latest generic generator in the source repo (`scripts/kie_generate.py`) wraps the preferred current models there. fal.ai model IDs are documented as direct fallback/experimental paths, not as the primary public runner.
+
 This repository intentionally contains only image-generation skills and scripts:
 
 - no R2 publishing/upload pipeline

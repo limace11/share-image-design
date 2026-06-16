@@ -15,6 +15,8 @@ Use this skill when the task is to generate or regenerate product/editorial imag
 
 ## Scope
 
+Source note: `lets-share-redesign` used both Kie.ai and direct fal.ai tests. This skill exports the Kie.ai path as the primary runner because it is the latest generic wrapper; fal.ai IDs remain documented as fallbacks.
+
 This skill is intentionally minimal:
 
 - generate images only
